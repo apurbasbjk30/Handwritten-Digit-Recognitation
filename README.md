@@ -36,7 +36,8 @@ This project implements a handwritten digit recognition system using the **MNIST
 
 ### 🔸 CNN Accuracy
 
-![image](https://github.com/user-attachments/assets/32b64c3f-2397-483f-a2b4-7695fbeb6795)
+![image](https://github.com/user-attachments/assets/35f3bcdf-be9e-4ba5-b4b1-93a755ddc909)
+
 
 
 ### 🔸 RNN Accuracy
